@@ -7,7 +7,7 @@ architectures:
 packages:
 - "faketime"
 remotes:
-- "url": "https://github.com/theaudaxproject/audax-detached-sigs.git"
+- "url": "https://github.com/cryptotronxyz/audax-detached-sigs.git"
   "dir": "signature"
 files:
 - "audax-osx-unsigned.tar.gz"

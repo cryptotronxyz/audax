@@ -28,7 +28,7 @@ packages:
 - "python-setuptools"
 - "fonts-tuffy"
 remotes:
-- "url": "https://github.com/theaudaxproject/audax.git"
+- "url": "https://github.com/cryptotronxyz/audax.git"
   "dir": "audax"
 files:
 - "MacOSX10.11.sdk.tar.gz"
